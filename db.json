@@ -1,0 +1,64 @@
+[{
+    "Pitcher": "Kyle Beery",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'2''",
+	  "Weight": "210",
+    "Age": "19"
+},
+{
+    "Pitcher": "Baby Ruth",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'3''",
+	  "Weight": "211",
+    "Age": "21" 
+},
+{
+    "Pitcher": "David Robertson",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'5''",
+	  "Weight": "190",
+    "Age": "22" 
+}
+{
+    "Pitcher": "Sonny Gray",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'2''",
+	  "Weight": "180",
+    "Age": "18" 
+}
+{
+    "Pitcher": "Kyle Beery",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'2''",
+	  "Weight": "160",
+    "Age": "23" 
+}
+{
+    "Pitcher": "Baby Ruth",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'5''",
+	  "Weight": "185",
+    "Age": "22"
+}
+{
+    "Pitcher": "David Robertson",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'2''",
+	  "Weight": "150",
+    "Age": "21" 
+}
+{
+    "Pitcher": "Sonny Gray",
+    "Position": "Starter",
+    "Bath/Throw": "L/L",
+    "Height": "6'3''",
+	  "Weight": "190",
+    "Age": "19" 
+}]
