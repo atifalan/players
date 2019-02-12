@@ -1,16 +1,18 @@
-[{
+[
+    {
     "Pitcher": "Kyle Beery",
     "Position": "Starter",
     "Bath/Throw": "L/L",
     "Height": "6'2''",
     "Weight": "210",
     "Age": "19"
-},
-{
+    },
+    {
     "Pitcher": "Baby Ruth",
     "Position": "Starter",
     "Bath/Throw": "L/L",
     "Height": "6'3''",
     "Weight": "211",
     "Age": "21" 
-}]
+    }
+]
